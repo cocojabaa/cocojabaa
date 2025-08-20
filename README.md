@@ -26,15 +26,14 @@
 </div>
 
 ## ✍️ Связаться со мной
-  <a href="https://t.me/svcsvcsvcsvc">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://vk.com/svcsvcsvcsvc">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-  </a>
-  <a href="mailto:chelrazum62@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-ff4a4a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff4a4a"/>
-  </a>
+<a href="https://t.me/svcsvcsvcsvc">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://vk.com/svcsvcsvcsvc">
+  <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+</a>
+
+📧 **Почта: chelrazum62@gmail.com**
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6400eb,100:b900ff&fontSize=40&animation=fadeIn&fontColor=FFFF&fontAlignY=52&rotate=0&descAlign=50&reversal=false&textBg=false&section=footer" alt="footer">
