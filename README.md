@@ -35,7 +35,7 @@
 
 📧 **Почта: chelrazum62@gmail.com**
 
-<div align="center">❤️</div>
+<div align="center"><h3>👇 Смотри закрепленные репозитории!</h3></div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6400eb,100:b900ff&fontSize=40&animation=fadeIn&fontColor=FFFF&fontAlignY=52&rotate=0&descAlign=50&reversal=false&textBg=false&section=footer" alt="footer">
