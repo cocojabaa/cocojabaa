@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="banner.jpg" alt="banner">
-  <h1>𝑐𝑜𝑐𝑜𝑗𝑎𝑏𝑎𝑎</h1>
-  <p>Frontend Developer из Ростова-на-Дону, учусь в ДГТУ</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6400eb,100:b900ff&text=Uspenskiy%20Vitaliy&fontSize=40&animation=fadeIn&fontColor=FFFF&fontAlignY=52&rotate=0&descAlign=50&reversal=false&textBg=false" alt="header">
+  <h1>👨‍💻 Frontend Developer из Ростова-на-Дону</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1500&color=CB2BFFFF&width=203&lines=~%24+npm+i+react+js+" alt="Typing SVG" />
 </div>
 
----
+## ✋🏻 Привет! 
+
+Я **Фронтенд-разработчик** в процессе становления. Изучаю **React**, **JS** и **всё**, что связано с созданием современного и динамичного веба. Здесь живут мои учебные проекты и эксперименты с кодом.
 
 ## 🚀 Стек технологий:
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />
@@ -24,11 +26,16 @@
 </div>
 
 ## ✍️ Связаться со мной
-<div align="center">
   <a href="https://t.me/svcsvcsvcsvc">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.com/svcsvcsvcsvc">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
+  <a href="mailto:chelrazum62@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-ff4a4a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff4a4a"/>
+  </a>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6400eb,100:b900ff&fontSize=40&animation=fadeIn&fontColor=FFFF&fontAlignY=52&rotate=0&descAlign=50&reversal=false&textBg=false&section=footer" alt="footer">
 </div>
