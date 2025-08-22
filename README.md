@@ -6,14 +6,13 @@
 
 ## ✋🏻 Привет! 
 
-Я **Фронтенд-разработчик** в процессе становления. Изучаю **React**, **JS** и **всё**, что связано с созданием современного и динамичного веба. Здесь живут мои учебные проекты и эксперименты с кодом.
+Я **Фронтенд-разработчик** в процессе становления. Изучаю **всё**, что связано с созданием современного и динамичного веба. Здесь живут мои учебные проекты и эксперименты с кодом.
 
 ## 🚀 Стек технологий:
 <div>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=whitee" alt="react router" />
   <img src="https://img.shields.io/badge/Zustand-db793b?style=for-the-badge&logoSize=30" alt="zustand">
