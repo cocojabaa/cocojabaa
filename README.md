@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 </a>
 
-📧 **Почта: chelrazum62@gmail.com**
+**Почта: chelrazum62@gmail.com**
 
 <div align="center"><h3>👇 Смотри закрепленные репозитории!</h3></div>
 
